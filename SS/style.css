@@ -2,7 +2,7 @@ body {
 	background-color: black;
 	font-family: 'Press Start 2P', cursive;
 	color: white;
-	background-image: url('asteroids.jpg');
+	background-image: url('../assets/asteroids.jpg');
   }
   
   .container {
@@ -17,25 +17,7 @@ body {
 	border: 8px dashed white;
 	z-index: 4;
   }
-  
-  /* #bg-image {
-	position: fixed;
-	top: 76px;
-	width: 100vh;
-	height: 80vh;
-	background-image: url('asteroids.jpg');
-	z-index: 1;
-	align-self: center;
-
-	/* -webkit-filter: blur(2px);
-	-moz-filter: blur(2px);
-	-ms-filter: blur(2px);
-	-o-filter: blur(2px);
-	filter: blur(2px);
-	transition: all 8s ;
-	transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1); */
-
-  
+   
   #wrapper {
 	width: 900px;
 	min-width: 900px;

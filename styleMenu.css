@@ -21,7 +21,7 @@ body {
   top: 76px;
   width: 900px;
   height: 600px;
-  background-image: url('asteroids.jpg');
+  background-image: url('assets/asteroids.jpg');
   z-index: 1;
   -webkit-filter: blur(2px);
   -moz-filter: blur(2px);
